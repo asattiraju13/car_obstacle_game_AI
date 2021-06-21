@@ -3,7 +3,7 @@ import pygame
 
 pygame.init()
 
-# Lines 6-7: Caption / Display settings
+# Lines 7-8: Caption / Display settings
 screen = pygame.display.set_mode([600,800])
 pygame.display.set_caption("Car-Obstacle Game")
 
